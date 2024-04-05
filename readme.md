@@ -28,7 +28,7 @@
 # About me
 
 <p>
- <img align="right" width="200" height="200" src="/assets/programmer.jpg" alt="Coding gif" />
+ <img align="right" width="250" height="250" src="/assets/programmer.jpg" alt="Coding gif" />
   
  ✌️&emsp; Passionate about programming and sharing knowledge.<br/><br/>
  ❤️&emsp; Enthusiastic about writing code and exploring new features.<br/><br/>
