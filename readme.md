@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
     Hi 👋, I'm
-      <b><a target="_blank" href="https://josuerivas-porfolio.vercel.app/">Josue Rivas</a></b>
+      <b><a target="_blank" href="https://jrivas-porfolio.vercel.app/">Josue Rivas</a></b>
     </samp>
 </h3>
 
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
- <a href="https://josuerivas-porfolio.vercel.app/" target="blank">
+ <a href="https://jrivas-porfolio.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="josuerivas" />
  </a>
  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
@@ -87,8 +87,8 @@
 
 [![bluewave](https://github-readme-stats.vercel.app/api/pin/?username=bluediu&repo=bluewave&border_color=61dbfb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dbfb)](https://github.com/bluediu/bluewave)
 [![bluewavebackend](https://github-readme-stats.vercel.app/api/pin/?username=bluediu&repo=bluewave-backend&border_color=61dbfb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dbfb)](https://github.com/bluediu/bluewave-backend)
-[![fakestore](https://github-readme-stats.vercel.app/api/pin/?username=bluediu&repo=fake-store-app&border_color=61dbfb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dbfb)](https://github.com/bluediu/fake-store-app)
-[![bluewave](https://github-readme-stats.vercel.app/api/pin/?username=bluediu&repo=react-advanced&border_color=61dbfb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dbfb)](https://github.com/bluediu/react-advanced)
+[![instaclone-frontend](https://github-readme-stats.vercel.app/api/pin/?username=bluediu&repo=instaclone-frontend&border_color=61dbfb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dbfb)](https://github.com/bluediu/instaclone-frontend)
+[![calendar-app-frontent](https://github-readme-stats.vercel.app/api/pin/?username=bluediu&repo=calendar-app-frontent&border_color=61dbfb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dbfb)](https://github.com/bluediu/calendar-app-frontent)
 [![stardui](https://github-readme-stats.vercel.app/api/pin/?username=bluediu&repo=stardiu&border_color=61dbfb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dbfb)](https://github.com/bluediu/stardiu)
 
 <p align="left">
